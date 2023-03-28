@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.9e5c6256.css",
-    "main.js": "/static/js/main.3f86ea04.js",
-    "static/media/backVideo.mp4": "/static/media/backVideo.6530384edbfae0911706.mp4",
-    "static/media/section1_background.jpg": "/static/media/section1_background.ba546241f445828d79a8.jpg",
-    "static/media/logo.png": "/static/media/logo.2e60cdc7b2969f815ba0.png",
-    "static/media/favicon.ico": "/static/media/favicon.ca615f2bcb0daac06a7a.ico",
-    "index.html": "/index.html",
-    "main.9e5c6256.css.map": "/static/css/main.9e5c6256.css.map",
-    "main.3f86ea04.js.map": "/static/js/main.3f86ea04.js.map"
+    "main.css": "/deceit.v2.0.1/static/css/main.9e5c6256.css",
+    "main.js": "/deceit.v2.0.1/static/js/main.6d363037.js",
+    "static/media/backVideo.mp4": "/deceit.v2.0.1/static/media/backVideo.6530384edbfae0911706.mp4",
+    "static/media/section1_background.jpg": "/deceit.v2.0.1/static/media/section1_background.ba546241f445828d79a8.jpg",
+    "static/media/logo.png": "/deceit.v2.0.1/static/media/logo.2e60cdc7b2969f815ba0.png",
+    "static/media/favicon.ico": "/deceit.v2.0.1/static/media/favicon.ca615f2bcb0daac06a7a.ico",
+    "index.html": "/deceit.v2.0.1/index.html",
+    "main.9e5c6256.css.map": "/deceit.v2.0.1/static/css/main.9e5c6256.css.map",
+    "main.6d363037.js.map": "/deceit.v2.0.1/static/js/main.6d363037.js.map"
   },
   "entrypoints": [
     "static/css/main.9e5c6256.css",
-    "static/js/main.3f86ea04.js"
+    "static/js/main.6d363037.js"
   ]
 }
