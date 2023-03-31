@@ -1,17 +1,20 @@
 {
   "files": {
-    "main.css": "/deceit.v2.0.1/static/css/main.9e5c6256.css",
-    "main.js": "/deceit.v2.0.1/static/js/main.6d363037.js",
+    "main.css": "/deceit.v2.0.1/static/css/main.4ccf26f4.css",
+    "main.js": "/deceit.v2.0.1/static/js/main.d8e747ad.js",
     "static/media/backVideo.mp4": "/deceit.v2.0.1/static/media/backVideo.6530384edbfae0911706.mp4",
+    "static/media/img_2.png": "/deceit.v2.0.1/static/media/img_2.dc8c5272ac0392afa078.png",
+    "static/media/img_3.png": "/deceit.v2.0.1/static/media/img_3.6f3c0c01d1691986f1fb.png",
     "static/media/section1_background.jpg": "/deceit.v2.0.1/static/media/section1_background.ba546241f445828d79a8.jpg",
+    "static/media/do-not-cross_divider.jpg": "/deceit.v2.0.1/static/media/do-not-cross_divider.7237ec5d4098c8892994.jpg",
     "static/media/logo.png": "/deceit.v2.0.1/static/media/logo.2e60cdc7b2969f815ba0.png",
     "static/media/favicon.ico": "/deceit.v2.0.1/static/media/favicon.ca615f2bcb0daac06a7a.ico",
     "index.html": "/deceit.v2.0.1/index.html",
-    "main.9e5c6256.css.map": "/deceit.v2.0.1/static/css/main.9e5c6256.css.map",
-    "main.6d363037.js.map": "/deceit.v2.0.1/static/js/main.6d363037.js.map"
+    "main.4ccf26f4.css.map": "/deceit.v2.0.1/static/css/main.4ccf26f4.css.map",
+    "main.d8e747ad.js.map": "/deceit.v2.0.1/static/js/main.d8e747ad.js.map"
   },
   "entrypoints": [
-    "static/css/main.9e5c6256.css",
-    "static/js/main.6d363037.js"
+    "static/css/main.4ccf26f4.css",
+    "static/js/main.d8e747ad.js"
   ]
 }
